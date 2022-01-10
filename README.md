@@ -1,4 +1,5 @@
 # Inverted-Pendulum-on-a-Cart-System
+Check my website out for more details: https://vigneshr2306.wordpress.com/design-and-control-of-real-time-inverted-pendulum-system-with-force-voltage-parameter-correlation/ </br>
 Read my thesis on Study and Control of Dynamics of Inverted Pendulum System to understand the problem statement and details of my hardware setup. Check out my paper here: https://link.springer.com/article/10.1007/s40435-020-00753-5
 
 ## State-space feedback approach:
